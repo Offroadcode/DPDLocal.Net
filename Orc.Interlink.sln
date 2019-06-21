@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orc.Interlink", "Orc.Interlink\Orc.Interlink.csproj", "{2CBDDF84-6E21-412F-A397-F050683DB0C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBDDF84-6E21-412F-A397-F050683DB0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBDDF84-6E21-412F-A397-F050683DB0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBDDF84-6E21-412F-A397-F050683DB0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBDDF84-6E21-412F-A397-F050683DB0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB635C09-9F09-49DA-8690-96AC9B84B0C7}
+	EndGlobalSection
+EndGlobal
